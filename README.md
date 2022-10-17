@@ -5,6 +5,14 @@
 </div>
 <br>
 
+
+### `—◉ 🕴️ Número del creador 🕴️` 
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+### `—◉ 👻GRUPOS DEL BOT 👻` 
+<a href="https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D" target="blank"><img src="https://img.shields.io/badge/Grupo-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
