@@ -12,6 +12,9 @@
 ### `—◉ 👻GRUPOS DEL BOT 👻` 
 <a href="https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D" target="blank"><img src="https://img.shields.io/badge/Grupo-1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
+<a href="https://chat.whatsapp.com/CBoAGmEFcCy44xIoWBSgzJ" target="blank"><img src="https://img.shields.io/badge/Grupo-2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<a href="https://chat.whatsapp.com/EJAs18qwQkg3x2zujNkUE4" target="blank"><img src="https://img.shields.io/badge/Grupo-3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
