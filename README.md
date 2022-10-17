@@ -1,5 +1,10 @@
 # `🧿 Black_Bot-MD🔮`
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Dame+Una+Estrellita+porfa+:)
+<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
+</div>
+<br>
+
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
