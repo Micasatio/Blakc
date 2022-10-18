@@ -87,5 +87,27 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 <a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="250" height="250" alt="BrunoSobrino"/></a>
-  
 
+ Sufro al pensar que el destino logró separarnos
+Guardo tan bellos recuerdos que no olvidaré
+Sueños que juntas forjaron tú alma y la mía
+En las horas de dicha infinita
+Que añoro en mi canto y no han de volver
+Hoy que en mi vida tan solo quedó, tú recuerdo
+Siento en mis labios tus besos, dulce y vapurú
+Tu cabellera sedosa acaricio en mis sueños
+Y me estrechan tus brazos amantes
+Al arrullo suave de tú kulunú
+Mi corazón en tinieblas te busca con ansias
+Rezo tú nombre pidiendo que vuelvas a mí
+Porque sin ti ya ni el sol ilumina mis días
+Al llegar la aurora me encuentra llorando
+Mis noches sin ti
+Tú cabellera sedosa acaricio en mis sueños
+Y me estrechan tus brazos amantes
+Al arrullo suave de tú kulunú
+Mi corazón en tinieblas te busca con ansias
+Rezo tú nombre pidiendo que vuelvas a mí
+Porque sin ti ya ni el sol ilumina mis días
+Al llegar la aurora me encuentra llorando
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CB22&width=435&lines=Mis+noches+sin+ti+♥️+)
