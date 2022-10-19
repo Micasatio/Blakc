@@ -6,12 +6,12 @@ import { generateWAMessageFromContent } from '@adiwajshing/baileys'
 
 global.owner = [
   ['595983186566', '👑 Black - Creador 👑', true],
-  ['595983186566', '👑 Black - Collaborator 1 👑', true],
-  ['595983186566', '👑 Black - Collaborator 2 👑', true],
-  ['595983186566', '👑 Black - Collaborator 3 👑', true],
-  ['595983186566', '👑 Black - Collaborator 4 👑', true],
+  ['15125806885', '👑 Black - Collaborator 1 👑', true],
+  ['15125806885', '👑 Black - Collaborator 2 👑', true],
+  ['15125806885', '👑 Black - Collaborator 3 👑', true],
+  ['15125806885', '👑 Black - Collaborator 4 👑', true],
   ['595983186566', '👑 Black - Collaborator 5 👑', true],
-  ['595983186566', '👑 Black - Collaborator 6 👑', true],
+  ['15125806885', '👑 Black - Collaborator 6 👑', true],
   ['595983186566', '👑 Black - Collaborator 7 👑', true],
   ['595983186566'],
   ['595983186566'],
@@ -20,7 +20,7 @@ global.owner = [
   ['595983186566']
 ] 
 global.suittag = ['595983186566'] 
-global.prems = ['595983186566'] 
+global.prems = ['15125806885'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★Black - 𝙱𝚘𝚝★'
